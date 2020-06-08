@@ -21,7 +21,7 @@
   "homepage": "https://github.com/taiyoo/psychic-parakeet#readme",
   "dependencies": {
     "buttercms": "^1.1.1",
-    "next": "^6.1.1",
+    "next": "^9.4.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   }
